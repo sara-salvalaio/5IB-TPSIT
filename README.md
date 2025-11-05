@@ -1,4 +1,4 @@
-Mastermind Semplificato 🎯
+Mastermind Semplificato
 
 Questo progetto è un’app Flutter che implementa una versione semplificata del classico gioco Mastermind, dove il giocatore deve indovinare una sequenza segreta di quattro colori.
 
